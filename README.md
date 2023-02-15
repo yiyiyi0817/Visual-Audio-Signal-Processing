@@ -1,6 +1,6 @@
-# Visual-and-auditory-signal-processing  
+# Visual-Audio Signal Processing  
 哈工大2022秋视听觉信号处理实验作业  
-HIT Fall 2022 Semester Visual-auditory signal processing lab assignments  
+HIT Fall 2022 Semester Visual-Audio Signal Processing lab assignments  
   
   
 实验1：视觉--图像降噪  
